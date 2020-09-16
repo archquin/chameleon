@@ -3,4 +3,4 @@ QR machine that uses QR codes as a virtual memory to store string data and use e
 
 stage 7 can move between 2 surfaces the ¬M and M surface. 
 
-It s not ready yet...
+way to play minesweeper after stage 8
